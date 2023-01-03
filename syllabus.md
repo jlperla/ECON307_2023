@@ -12,7 +12,7 @@
 
 - **Instructor:** jesse.perla@ubc.ca
   - **Office Hours:** 9:15am-10:30am Fridays in IONA 206
-  - **Location**: Irving Barber 157 starting January 24th
+  - **Location**: BUCH D306
 - **Teaching Assistant:**  Igor Carreira, igoraacarreira@gmail.com
   - **Office Hours:** TBD, coordinated with Honors Micro class
 - **Prerequisites:**  A score of 68\% or higher in ECON 305
