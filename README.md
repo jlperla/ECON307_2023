@@ -8,6 +8,7 @@ See [here](syllabus.md) for more details
 ## Problem Sets and Exams
 
 1. **Due Midnight PST on January 19th** - [Problem Set 0](/problem_sets/problem_set_0.pdf). This is a pass/fail problem set (i.e., hand it in you pass!)
+2. **Due Midnight PST on January 29th** - [Problem Set 1](/problem_sets/problem_set_1.pdf)
 
 <!--
 1. **Due Midnight PST on January 30th** - [Problem Set 1](/problem_sets/problem_set_1.pdf)
@@ -25,10 +26,10 @@ See [here](syllabus.md) for more details
 1. **January 9th** - [Introduction to Modern Macro](/lecture_notes/intro_to_modern_macro.pdf)
 2. **January 11th** - [Math Review](/lecture_notes/math_review.pdf)
 3. **January 13th** - Finish [Introduction to Modern Macro](/lecture_notes/intro_to_modern_macro.pdf), start [Asset Pricing and Difference Equations](/lecture_notes/asset_pricing_difference_equations.pdf)
-4. **January 16th** - More [Asset Pricing and Difference Equations](/lecture_notes/asset_pricing_difference_equations.pdf) and potentially start [Permanent Income Model](/lecture_notes/permanent_income.pdf)
+4. **January 16th** - More [Asset Pricing and Difference Equations](/lecture_notes/asset_pricing_difference_equations.pdf) and introduce notation for [Permanent Income Model](/lecture_notes/permanent_income.pdf)
 5. **January 18th** -  [Permanent Income Model](/lecture_notes/permanent_income.pdf)
 6. **January 20th** - PS0 Review in class
-7. **January 23rd** -
+7. **January 23rd** - [Permanent Income Model](/lecture_notes/permanent_income.pdf) and introduce  [Markov Chains and Unemployment](/lecture_notes/markov_chains_unemployment.pdf)
 8. **January 25th** -
 9. **January 27th** -
 10. **January 30th** -
