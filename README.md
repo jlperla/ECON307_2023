@@ -29,9 +29,9 @@ See [here](syllabus.md) for more details
 4. **January 16th** - More [Asset Pricing and Difference Equations](/lecture_notes/asset_pricing_difference_equations.pdf) and introduce notation for [Permanent Income Model](/lecture_notes/permanent_income.pdf)
 5. **January 18th** -  [Permanent Income Model](/lecture_notes/permanent_income.pdf)
 6. **January 20th** - PS0 Review in class
-7. **January 23rd** - [Permanent Income Model](/lecture_notes/permanent_income.pdf) and introduce  [Markov Chains and Unemployment](/lecture_notes/markov_chains_unemployment.pdf)
-8. **January 25th** -
-9. **January 27th** -
+7. **January 23rd** - [Permanent Income Model](/lecture_notes/permanent_income.pdf)
+8. **January 25th** - Finish [Permanent Income Model](/lecture_notes/permanent_income.pdf) and do [Markov Chains and Unemployment](/lecture_notes/markov_chains_unemployment.pdf)
+9. **January 27th** - [Markov Chains and Unemployment](/lecture_notes/markov_chains_unemployment.pdf)
 10. **January 30th** -
 11. **February 1st** -
 12. **February 3rd** -
