@@ -32,9 +32,9 @@ See [here](syllabus.md) for more details
 7. **January 23rd** - [Permanent Income Model](/lecture_notes/permanent_income.pdf)
 8. **January 25th** - Finish [Permanent Income Model](/lecture_notes/permanent_income.pdf) and do [Markov Chains and Unemployment](/lecture_notes/markov_chains_unemployment.pdf)
 9. **January 27th** - [Markov Chains and Unemployment](/lecture_notes/markov_chains_unemployment.pdf)
-10. **January 30th** -
-11. **February 1st** -
-12. **February 3rd** -
+10. **January 30th** - Finish [Markov Chains and Unemployment](/lecture_notes/markov_chains_unemployment.pdf) and maybe look at [Stochastic Asset Pricing](/lecture_notes/stochastic_asset_pricing.pdf)
+11. **February 1st** - PS1 Review in class
+12. **February 3rd** - [Stochastic Asset Pricing](/lecture_notes/stochastic_asset_pricing.pdf)
 13. **February 6th** -
 14. **February 8th** -
 15. **February 10th** -
