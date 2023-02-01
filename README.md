@@ -9,11 +9,9 @@ See [here](syllabus.md) for more details
 
 1. **Due Midnight PST on January 19th** - [Problem Set 0](/problem_sets/problem_set_0.pdf). This is a pass/fail problem set (i.e., hand it in you pass!)
 2. **Due Midnight PST on January 29th** - [Problem Set 1](/problem_sets/problem_set_1.pdf)
+3. **Due Midnight PST on February 9th** - [Problem Set 2](/problem_sets/problem_set_2.pdf)
 
 <!--
-1. **Due Midnight PST on January 30th** - [Problem Set 1](/problem_sets/problem_set_1.pdf)
-2. **Due Midnight PST on February 8th** - [Problem Set 2](/problem_sets/problem_set_2.pdf)
-3. **Due Midnight PST on February 15th** - [Problem Set 3](/problem_sets/problem_set_3.pdf)
 4. [Midterm Practice Problems](/problem_sets/midterm_practice_problems.pdf)
 5. **February 18th** - Midterm Exam 12:15-2:15 in IONA 167
 6. **Due Midnight PST on March 13th** - [Problem Set 4](/problem_sets/problem_set_4.pdf)
@@ -32,12 +30,12 @@ See [here](syllabus.md) for more details
 7. **January 23rd** - [Permanent Income Model](/lecture_notes/permanent_income.pdf)
 8. **January 25th** - Finish [Permanent Income Model](/lecture_notes/permanent_income.pdf) and do [Markov Chains and Unemployment](/lecture_notes/markov_chains_unemployment.pdf)
 9. **January 27th** - [Markov Chains and Unemployment](/lecture_notes/markov_chains_unemployment.pdf)
-10. **January 30th** - Finish [Markov Chains and Unemployment](/lecture_notes/markov_chains_unemployment.pdf) and maybe look at [Stochastic Asset Pricing](/lecture_notes/stochastic_asset_pricing.pdf)
+10. **January 30th** - [Markov Chains and Unemployment](/lecture_notes/markov_chains_unemployment.pdf)
 11. **February 1st** - PS1 Review in class
-12. **February 3rd** - [Stochastic Asset Pricing](/lecture_notes/stochastic_asset_pricing.pdf)
-13. **February 6th** -
-14. **February 8th** -
-15. **February 10th** -
+12. **February 3rd** - Finish [Markov Chains and Unemployment](/lecture_notes/markov_chains_unemployment.pdf)  and start [Stochastic Asset Pricing](/lecture_notes/stochastic_asset_pricing.pdf)
+13. **February 6th** - [Stochastic Asset Pricing](/lecture_notes/stochastic_asset_pricing.pdf)
+14. **February 8th** - [Stochastic Asset Pricing](/lecture_notes/stochastic_asset_pricing.pdf)
+15. **February 10th** - 
 16. **February 13th** -
 17. **February 15th** - 
 18. **February 17th** - **Tentative Midterm Exam**
