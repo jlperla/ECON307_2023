@@ -10,6 +10,7 @@ See [here](syllabus.md) for more details
 1. **Due Midnight PST on January 19th** - [Problem Set 0](/problem_sets/problem_set_0.pdf). This is a pass/fail problem set (i.e., hand it in you pass!)
 2. **Due Midnight PST on January 29th** - [Problem Set 1](/problem_sets/problem_set_1.pdf)
 3. **Due Midnight PST on February 9th** - [Problem Set 2](/problem_sets/problem_set_2.pdf)
+4. **Due Midnight PST on February 12th** - [Problem Set 3](/problem_sets/problem_set_3.pdf)
 
 <!--
 4. [Midterm Practice Problems](/problem_sets/midterm_practice_problems.pdf)
@@ -36,8 +37,8 @@ See [here](syllabus.md) for more details
 13. **February 6th** - [Stochastic Asset Pricing](/lecture_notes/stochastic_asset_pricing.pdf)
 14. **February 8th** - [Stochastic Asset Pricing](/lecture_notes/stochastic_asset_pricing.pdf)
 15. **February 10th** - 
-16. **February 13th** -
-17. **February 15th** - 
+16. **February 13th** - 
+17. **February 15th** - **Review Session**
 18. **February 17th** - **Tentative Midterm Exam**
 19. **February 20th** - BREAK
 20. **February 22nd** - BREAK
