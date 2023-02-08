@@ -35,9 +35,9 @@ See [here](syllabus.md) for more details
 11. **February 1st** - PS1 Review in class
 12. **February 3rd** - Finish [Markov Chains and Unemployment](/lecture_notes/markov_chains_unemployment.pdf)  and start [Stochastic Asset Pricing](/lecture_notes/stochastic_asset_pricing.pdf)
 13. **February 6th** - [Stochastic Asset Pricing](/lecture_notes/stochastic_asset_pricing.pdf)
-14. **February 8th** - [Stochastic Asset Pricing](/lecture_notes/stochastic_asset_pricing.pdf)
-15. **February 10th** - 
-16. **February 13th** - 
+14. **February 8th** - [Stochastic Asset Pricing](/lecture_notes/stochastic_asset_pricing.pdf) and [Incomplete Markets](/lecture_notes/no_borrowing_dynamic_programming.pdf)
+15. **February 10th** - [Incomplete Markets](/lecture_notes/no_borrowing_dynamic_programming.pdf)
+16. **February 13th** - PS 2 Review in class
 17. **February 15th** - **Review Session**
 18. **February 17th** - **Tentative Midterm Exam**
 19. **February 20th** - BREAK
