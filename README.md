@@ -11,14 +11,15 @@ See [here](syllabus.md) for more details
 2. **Due Midnight PST on January 29th** - [Problem Set 1](/problem_sets/problem_set_1.pdf)
 3. **Due Midnight PST on February 9th** - [Problem Set 2](/problem_sets/problem_set_2.pdf)
 4. **Due Midnight PST on February 12th** - [Problem Set 3](/problem_sets/problem_set_3.pdf)
+4. [Midterm Practice Problems](/problem_sets/midterm_practice_problems.pdf)
+5. **February 17th** - Midterm Exam 12:00-2:00 in ANGU 435
 
 <!--
-4. [Midterm Practice Problems](/problem_sets/midterm_practice_problems.pdf)
-5. **February 18th** - Midterm Exam 12:15-2:15 in IONA 167
-6. **Due Midnight PST on March 13th** - [Problem Set 4](/problem_sets/problem_set_4.pdf)
-7. **Due Midnight PST on March 27th** - [Problem Set 5](/problem_sets/problem_set_5.pdf)
-8. **Due Midnight PST on April 10th** - [Problem Set 6](/problem_sets/problem_set_6.pdf).  Grading is pass/fail on this one.
-9.  [Final Practice Problems](/problem_sets/final_practice_problems.pdf)
+1. **February 18th** - Midterm Exam 12:15-2:15 in IONA 167
+2. **Due Midnight PST on March 13th** - [Problem Set 4](/problem_sets/problem_set_4.pdf)
+3. **Due Midnight PST on March 27th** - [Problem Set 5](/problem_sets/problem_set_5.pdf)
+4. **Due Midnight PST on April 10th** - [Problem Set 6](/problem_sets/problem_set_6.pdf).  Grading is pass/fail on this one.
+5.  [Final Practice Problems](/problem_sets/final_practice_problems.pdf)
 -->
 
 ## Lectures
@@ -35,11 +36,11 @@ See [here](syllabus.md) for more details
 11. **February 1st** - PS1 Review in class
 12. **February 3rd** - Finish [Markov Chains and Unemployment](/lecture_notes/markov_chains_unemployment.pdf)  and start [Stochastic Asset Pricing](/lecture_notes/stochastic_asset_pricing.pdf)
 13. **February 6th** - [Stochastic Asset Pricing](/lecture_notes/stochastic_asset_pricing.pdf)
-14. **February 8th** - [Stochastic Asset Pricing](/lecture_notes/stochastic_asset_pricing.pdf) and [Incomplete Markets](/lecture_notes/no_borrowing_dynamic_programming.pdf)
+14. **February 8th** - [Stochastic Asset Pricing](/lecture_notes/stochastic_asset_pricing.pdf)
 15. **February 10th** - [Incomplete Markets](/lecture_notes/no_borrowing_dynamic_programming.pdf)
-16. **February 13th** - PS 2 Review in class
-17. **February 15th** - **Review Session**
-18. **February 17th** - **Tentative Midterm Exam**
+16. **February 13th** - [Incomplete Markets](/lecture_notes/no_borrowing_dynamic_programming.pdf) and maybe start PS2 Review
+17. **February 15th** - **Review Session** Finish PS2 and PS3 review, potentially the practice problems
+18. **February 17th** - **Midterm Exam**: 12:00-2:00 in ANGU 435
 19. **February 20th** - BREAK
 20. **February 22nd** - BREAK
 21. **February 24th** - BREAK
