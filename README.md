@@ -13,6 +13,7 @@ See [here](syllabus.md) for more details
 4. **Due Midnight PST on February 12th** - [Problem Set 3](/problem_sets/problem_set_3.pdf)
 4. [Midterm Practice Problems](/problem_sets/midterm_practice_problems.pdf)
 5. **February 17th** - Midterm Exam 12:00-2:00 in ANGU 435
+6. **Due Midnight PST on March 12th** - [Problem Set 4](/problem_sets/problem_set_4.pdf)
 
 ## Lectures
 1. **January 9th** - [Introduction to Modern Macro](/lecture_notes/intro_to_modern_macro.pdf)
@@ -39,10 +40,10 @@ See [here](syllabus.md) for more details
 22. **February 27th** - [Stochastic Permanent Income Model](/lecture_notes/stochastic_permanent_income.pdf)
 23. **March 1st** - [Stochastic Permanent Income Model](/lecture_notes/stochastic_permanent_income.pdf)
 24. **March 3rd** - [Stochastic Permanent Income Model](/lecture_notes/stochastic_permanent_income.pdf) and maybe start [Search](/lecture_notes/search.pdf)
-25. **March 6th** -
-26. **March 8th** -
-27. **March 10th** -
-28. **March 13th** -
+25. **March 6th** - [Search](/lecture_notes/search.pdf)
+26. **March 8th** - Finish [Search](/lecture_notes/search.pdf) and maybe start [General Equilibrium](/lecture_notes/general_equilibrium.pdf)
+27. **March 10th** - [General Equilibrium](/lecture_notes/general_equilibrium.pdf)
+28. **March 13th** - PS4 and some exam review
 29. **March 15th** -
 30. **March 17th** -
 31. **March 20th** -
@@ -59,11 +60,6 @@ See [here](syllabus.md) for more details
 
 <!--
 
-22. **February 28th** - [Stochastic Permanent Income Model](/lecture_notes/stochastic_permanent_income.pdf)
-23. **March 2nd** - [Stochastic Permanent Income Model](/lecture_notes/stochastic_permanent_income.pdf)
-24. **March 4th** - Finish [Stochastic Permanent Income Model](/lecture_notes/stochastic_permanent_income.pdf) and start [Incomplete Markets](/lecture_notes/no_borrowing_dynamic_programming.pdf)
-25. **March 7th** - [Incomplete Markets](/lecture_notes/no_borrowing_dynamic_programming.pdf)
-26. **March 9th** - Finish [Incomplete Markets](/lecture_notes/no_borrowing_dynamic_programming.pdf) and do [Search](/lecture_notes/search.pdf)
 27. **March 11th** - [Search](/lecture_notes/search.pdf)
 28. **March 14th** - PS4 Review in class
 29. **March 16th** - [General Equilibrium](/lecture_notes/general_equilibrium.pdf)
