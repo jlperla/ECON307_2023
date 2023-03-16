@@ -14,6 +14,7 @@ See [here](syllabus.md) for more details
 4. [Midterm Practice Problems](/problem_sets/midterm_practice_problems.pdf)
 5. **February 17th** - Midterm Exam 12:00-2:00 in ANGU 435
 6. **Due Midnight PST on March 12th** - [Problem Set 4](/problem_sets/problem_set_4.pdf)
+7. **Due Midnight PST on March 26th** - [Problem Set 5](/problem_sets/problem_set_5.pdf)
 
 ## Lectures
 1. **January 9th** - [Introduction to Modern Macro](/lecture_notes/intro_to_modern_macro.pdf)
@@ -43,13 +44,13 @@ See [here](syllabus.md) for more details
 25. **March 6th** - [Search](/lecture_notes/search.pdf)
 26. **March 8th** - Finish [Search](/lecture_notes/search.pdf) and maybe start [General Equilibrium](/lecture_notes/general_equilibrium.pdf)
 27. **March 10th** - [General Equilibrium](/lecture_notes/general_equilibrium.pdf)
-28. **March 13th** - PS4 and some exam review
-29. **March 15th** -
-30. **March 17th** -
-31. **March 20th** -
+28. **March 13th** - Exam review
+29. **March 15th** - [General Equilibrium](/lecture_notes/general_equilibrium.pdf)
+30. **March 17th** - Finish [General Equilibrium](/lecture_notes/general_equilibrium.pdf), maybe introduce [Interest Rates](/lecture_notes/interest_rates.pdf)
+31. **March 20th** - [Interest Rates](/lecture_notes/interest_rates.pdf)
 32. **March 22nd** -
 33. **March 24th** -
-34. **March 27th** -
+34. **March 27th** - PS4 and PS5 Review
 35. **March 29th** -
 36. **March 31st** -
 37. **April 3rd** -
@@ -60,11 +61,7 @@ See [here](syllabus.md) for more details
 
 <!--
 
-27. **March 11th** - [Search](/lecture_notes/search.pdf)
-28. **March 14th** - PS4 Review in class
-29. **March 16th** - [General Equilibrium](/lecture_notes/general_equilibrium.pdf)
-30. **March 18th** - [General Equilibrium](/lecture_notes/general_equilibrium.pdf)
-31. **March 21st** - [General Equilibrium](/lecture_notes/general_equilibrium.pdf) and [Interest Rates](/lecture_notes/interest_rates.pdf)
+[Interest Rates](/lecture_notes/interest_rates.pdf)
 32. **March 23rd** - [Interest Rates](/lecture_notes/interest_rates.pdf)
 33. **March 25th** -  [Interest Rates](/lecture_notes/interest_rates.pdf)
 34. **March 28th** - PS5 Review in class
