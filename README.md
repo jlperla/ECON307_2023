@@ -52,7 +52,7 @@ See [here](syllabus.md) for more details
 33. **March 24th** - [Interest Rates](/lecture_notes/interest_rates.pdf)
 34. **March 27th** - Some on [Stochastic Interest Rates](/lecture_notes/stochastic_interest_rates.pdf) and start [Growth](/lecture_notes/growth.pdf)
 35. **March 29th** - [Growth](/lecture_notes/growth.pdf)
-36. **March 31st** -
+36. **March 31st** - PS4 and PS5 review
 37. **April 3rd** -
 38. **April 5th** -
 39. **April 7th** -
