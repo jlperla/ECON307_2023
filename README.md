@@ -15,6 +15,8 @@ See [here](syllabus.md) for more details
 5. **February 17th** - Midterm Exam 12:00-2:00 in ANGU 435
 6. **Due Midnight PST on March 12th** - [Problem Set 4](/problem_sets/problem_set_4.pdf)
 7. **Due Midnight PST on March 26th** - [Problem Set 5](/problem_sets/problem_set_5.pdf)
+8. **Due Midnight PST on April 11th** - [Problem Set 6](/problem_sets/problem_set_6.pdf)
+9. [Final Practice Problems](/problem_sets/final_practice_problems.pdf)
 
 ## Lectures
 1. **January 9th** - [Introduction to Modern Macro](/lecture_notes/intro_to_modern_macro.pdf)
@@ -53,21 +55,8 @@ See [here](syllabus.md) for more details
 34. **March 27th** - Some on [Stochastic Interest Rates](/lecture_notes/stochastic_interest_rates.pdf) and start [Growth](/lecture_notes/growth.pdf)
 35. **March 29th** - [Growth](/lecture_notes/growth.pdf)
 36. **March 31st** - PS4 and PS5 review
-37. **April 3rd** -
-38. **April 5th** -
-39. **April 7th** -
-40. **April 10th** -
-41. **April 12th** - **Review Session**
-
-<!--
-
-[Interest Rates](/lecture_notes/interest_rates.pdf)
-32. **March 23rd** - [Interest Rates](/lecture_notes/interest_rates.pdf)
-33. **March 25th** -  [Interest Rates](/lecture_notes/interest_rates.pdf)
-34. **March 28th** - PS5 Review in class
-35. **March 30th** - [Growth](/lecture_notes/growth.pdf)
-36. **April 1st** -  [Growth](/lecture_notes/growth.pdf)
-37. **April 4th** -  [Growth](/lecture_notes/growth.pdf) and [Growth and Fiscal Policy](/lecture_notes/growth_fiscal_policy.pdf)
-38. **April 6th** -  [Growth and Fiscal Policy](/lecture_notes/growth_fiscal_policy.pdf)
-39. **April 8th** - [Growth and Fiscal Policy](/lecture_notes/growth_fiscal_policy.pdf) and partial review of PS6
--->
+37. **April 3rd** - [Growth](/lecture_notes/growth.pdf) and [Growth and Fiscal Policy](/lecture_notes/growth_fiscal_policy.pdf) 
+38. **April 5th** - [Growth and Fiscal Policy](/lecture_notes/growth_fiscal_policy.pdf)
+39. **April 7th** - **HOLIDAY**
+40. **April 10th** - **HOLIDAY**
+41. **April 12th** - Finish [Growth and Fiscal Policy](/lecture_notes/growth_fiscal_policy.pdf) and maybe start PS6 review
